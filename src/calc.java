@@ -73,7 +73,5 @@ public class calc {
         }else{
             System.out.println("Числа должны быть в одном формате");
         }
-
-
     }
 }
